@@ -6,7 +6,7 @@
 - 表单使用浏览器输入验证，注册密码要求 8–128 位字符。
 - 纯前端演示，不连接账户服务，不发送或保存表单输入；请使用虚构信息。
 
-
+[预览网址] https://00103-a.github.io/sharks/
 <img width="1910" height="915" alt="c3383dbd88163c6ec9b35415fd6c3ab2" src="https://github.com/user-attachments/assets/ed6cd496-df8b-472e-a10e-b4b33a01d51c" />
 
 
