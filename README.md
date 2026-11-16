@@ -22,7 +22,7 @@ npm run build
 npm run preview
 ```
 
-`docs/` 是已提交的静态页面，可直接用于 GitHub Pages。修改源码后请重新运行构建，并把更新后的 `docs/` 一起提交。
+
 
 ## 动画来源
 
